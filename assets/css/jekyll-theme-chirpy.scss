@@ -1,0 +1,16 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+@import "video-embed.css";
+
+.post-preview {
+  box-shadow: rgb(104 104 104 / 25%) 0 2px 6px 0, rgb(211 209 209 / 35%) 0 0 0 1px;
+}
