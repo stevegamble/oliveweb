@@ -3,8 +3,8 @@ title: Canterbury Senior Jazz Combo, Canterbury Music Night 1, May 2025
 description: >-
   Performances from the first night of Canterbury Music Nights Spring 2025
 author: olive
-categories: [Saxophone, Jazz]
-tags: [Canterbury]
+categories: [Jazz]
+tags: [Canterbury, Saxophone]
 pin: false
 image:
   path: /assets/img/posts/music-night-1-jazz-2025.png

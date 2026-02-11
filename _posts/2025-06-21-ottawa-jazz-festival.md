@@ -3,8 +3,8 @@ title: Canterbury Senior Jazz Combo, Ottawa Jazz Festival, June 2025
 description: >-
   Performances from the Marion Dewar Stage at the 2025 Ottawa Jazz Festival
 author: olive
-categories: [Saxophone, Jazz]
-tags: [Canterbury]
+categories: [Jazz]
+tags: [Canterbury, Saxophone]
 pin: false
 image:
   path: /assets/img/posts/ottawa-jazz-festival-2025.png

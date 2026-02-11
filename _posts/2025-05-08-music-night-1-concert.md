@@ -3,8 +3,8 @@ title: Canterbury Senior Concert Band, Canterbury Music Night 1, May 2025
 description: >-
   Performances from the first night of Canterbury Music Nights Spring 2025
 author: olive
-categories: [Oboe, Concert Band]
-tags: [Canterbury]
+categories: [Concert Band]
+tags: [Canterbury, Oboe]
 pin: false
 image:
   path: /assets/img/posts/music-night-1-concert-2025.png
