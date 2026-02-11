@@ -7,7 +7,7 @@ categories: [Concert Band]
 tags: [Canterbury, Oboe]
 pin: false
 image:
-  path: /assets/img/posts/music-night-2-concert-winter-2025.png
+  path: /assets/img/posts/music-night-2-concert-winter-2024.png
 ---
 
 Nightflight Mvt 1 by James Swearingen (1947-)
