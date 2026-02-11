@@ -10,7 +10,7 @@ image:
   path: /assets/img/posts/music-night-1-concert-2025.png
 ---
 
-Mambo
+Mambo (West Side Story) by Leonard Bernstein (1918-1990)
 {% include youtubeplayer.html id="2xvjWP8UC5I" title="Mambo" %}
 
 ---
