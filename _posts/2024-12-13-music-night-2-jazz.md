@@ -1,7 +1,7 @@
 ---
 title: Canterbury Senior Jazz Combo, Canterbury Music Night 2, Dec 2024
 description: >-
-  Performances from the second night of Canterbury Music Nights Winter 2024
+  Performances from the second night of Canterbury Music Night Winter 2024
 author: olive
 categories: [Jazz]
 tags: [Canterbury, Saxophone]
