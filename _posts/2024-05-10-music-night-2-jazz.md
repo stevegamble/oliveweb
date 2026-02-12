@@ -1,5 +1,5 @@
 ---
-title: Canterbury Senior Jazz Combo, Canterbury Music Night 2, May 2024
+title: Canterbury Senior Jazz Band, Canterbury Music Night 2, May 2024
 description: >-
   Performances from the second night of Canterbury Music Nights Spring 2024
 author: olive
