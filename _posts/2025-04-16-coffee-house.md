@@ -1,7 +1,7 @@
 ---
-title: Canterbury High Coffee House, April 16 2025
+title: Canterbury Coffee House, April 16 2025
 description: >-
-  Performances from Canterbury High Coffee House Spring 2025
+  Performances from Canterbury Coffee House Spring 2025
 author: olive
 categories: [Ensembles]
 tags: [Canterbury, Saxophone]
