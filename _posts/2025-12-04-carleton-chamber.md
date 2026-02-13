@@ -1,10 +1,10 @@
 ---
-title: Carleton Chamber, December 2025
+title: Carleton Chamber Ensembles, Dec 4 2025
 description: >-
   Performances from the Fall 2025 Chamber Ensembles recital
 author: olive
-categories: [Ensembles]
-tags: [Carleton, Tango, Oboe, Clarinet]
+categories: [Performance]
+tags: [Carleton, Tango, Oboe, Clarinet, 1st Year]
 pin: false
 image:
   path: /assets/img/posts/carleton-chamber-2025.png

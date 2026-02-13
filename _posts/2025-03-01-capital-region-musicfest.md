@@ -1,10 +1,10 @@
 ---
-title: Canterbury Senior Jazz Combo, Capital Region MusicFest, March 2025
+title: Capital Region MusicFest, March 1 2025
 description: >-
-  Performances from the 2025 Capital Region MusicFest Jazz Division
+  Senior Jazz Combo at the 2025 Capital Region MusicFest Jazz Division
 author: olive
-categories: [Jazz]
-tags: [Canterbury, Saxophone]
+categories: [Performance]
+tags: [Canterbury, Saxophone, Jazz, Grade 12]
 pin: false
 image:
   path: /assets/img/posts/capital-region-2025.png

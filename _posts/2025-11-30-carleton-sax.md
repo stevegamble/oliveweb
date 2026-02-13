@@ -1,10 +1,10 @@
 ---
-title: Carleton Saxophone, November 2025
+title: Carleton Saxophone Ensembles, Nov 30 2025
 description: >-
   Performances from the Fall 2025 Saxophone Ensembles recital
 author: olive
-categories: [Ensembles]
-tags: [Carleton, Saxophone]
+categories: [Performance]
+tags: [Carleton, Saxophone, 1st Year]
 pin: false
 image:
   path: /assets/img/posts/carleton-saxophone-2025.png

@@ -1,10 +1,10 @@
 ---
-title: Canterbury Senior Jazz Band, Capital Region MusicFest, March 2024
+title: Capital Region MusicFest, March 2 2024
 description: >-
-  Performances from the 2024 Capital Region MusicFest Jazz Division
+  Canterbury Senior Jazz Band at the 2024 Capital Region MusicFest
 author: olive
-categories: [Jazz]
-tags: [Canterbury, Trombone]
+categories: [Performance]
+tags: [Canterbury, Trombone, Jazz, Grade 11]
 pin: false
 image:
   path: /assets/img/posts/capital-region-2024.png

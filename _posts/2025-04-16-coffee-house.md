@@ -3,8 +3,8 @@ title: Canterbury Coffee House, April 16 2025
 description: >-
   Performances from Canterbury Coffee House Spring 2025
 author: olive
-categories: [Ensembles]
-tags: [Canterbury, Saxophone]
+categories: [Performance]
+tags: [Canterbury, Saxophone, Jazz, Grade 12]
 pin: false
 image:
   path: /assets/img/posts/coffee-house-2025.png

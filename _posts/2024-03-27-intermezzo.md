@@ -1,10 +1,10 @@
 ---
-title: Canterbury Intermezzo, March 2024
+title: Canterbury Intermezzo, March 27 2024
 description: >-
   Grade 11 solo performance on the National Art Centre Fourth Stage
 author: olive
-categories: [Capstone]
-tags: [Canterbury, Oboe]
+categories: [Performance]
+tags: [Canterbury, Oboe, Grade 11]
 pin: false
 image:
   path: /assets/img/posts/intermezzo-2024.png
