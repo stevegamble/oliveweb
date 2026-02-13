@@ -4,7 +4,7 @@ description: >-
   Performances from Canterbury Music Nights Winter 2023
 author: olive
 categories: [Performance]
-tags: [Canterbury, Oboe, Concert Band, Grade 11]
+tags: [Canterbury, Oboe, Keyboards, Concert Band, Jazz, Orchestra, Grade 11]
 
 pin: false
 image:
