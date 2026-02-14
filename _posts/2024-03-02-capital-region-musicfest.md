@@ -7,7 +7,7 @@ categories: [Performance]
 tags: [Canterbury, Trombone, Jazz, Grade 11]
 pin: false
 image:
-  path: /assets/img/posts/capital-region-2024.png
+  path: /assets/img/posts/capital-region-2024-group.jpg
 ---
 
 todo
