@@ -7,7 +7,7 @@ categories: [Performance]
 tags: [Canterbury, Keyboards, Jazz, Grade 10]
 pin: false
 image:
-  path: /assets/img/posts/capital-region-2023.png
+  path: /assets/img/posts/capital-region-2023-group.jpg
 ---
 
 Night in Tunisia by Dizzy Gillespie (1917-1993)
