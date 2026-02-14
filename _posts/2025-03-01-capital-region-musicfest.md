@@ -7,7 +7,7 @@ categories: [Performance]
 tags: [Canterbury, Saxophone, Jazz, Grade 12]
 pin: false
 image:
-  path: /assets/img/posts/capital-region-2025.png
+  path: /assets/img/posts/capital-region-2025-group.jpg
 ---
 
 todo
