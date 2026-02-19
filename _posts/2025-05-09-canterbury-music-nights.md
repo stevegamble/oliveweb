@@ -19,17 +19,17 @@ La Malanga by Eddie Palmieri (1936-2025), adapted by Preservation Hall Jazz Band
 
 ---
 
-Mirage
+Mirage by Rick Hirsch (1970-)
 {% include youtubeplayer.html id="_1AHl1fOo9I" title="Mirage" %}
 
 ### Senior Concert Band
 
-Mambo (West Side Story) by Leonard Bernstein (1918-1990)
+Mambo (West Side Story) by Leonard Bernstein (1918-1990) arr by Michael Sweeney
 {% include youtubeplayer.html id="2xvjWP8UC5I" title="Mambo" %}
 
 ---
 
-Rhapsody in Blue by George Gershwin (1898-1937)
+Rhapsody in Blue by George Gershwin (1898-1937) arr by Robert Longfield
 {% include youtubeplayer.html id="1DfTcC2a0Yo" title="Rhapsody in Blue" %}
 
 
@@ -52,16 +52,16 @@ La Malanga by Eddie Palmieri (1936-2025), adapted by Preservation Hall Jazz Band
 
 ---
 
-Mirage
+Mirage by Rick Hirsch (1970-)
 {% include youtubeplayer.html id="NvJrqph2Fxg" title="Mirage" %}
 
 ### Senior Concert Band
 
-Mambo (West Side Story) by Leonard Bernstein (1918-1990)
+Mambo (West Side Story) by Leonard Bernstein (1918-1990) arr by Michael Sweeney
 {% include youtubeplayer.html id="EM0gRyY0AQw" title="Mambo" %}
 
 ---
 
-Persis
+Persis by James Hosay (1959-)
 {% include youtubeplayer.html id="1DfTcC2a0Yo" title="Persis" %}
  

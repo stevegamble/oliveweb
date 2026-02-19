@@ -58,14 +58,26 @@ Little Fugue in G Minor, BWV 578 by JS Bach (1685-1750), arr. R. Page
 ## Big Bird Quartet
 
 Bordel 1900 from Histoire du Tango by Astor Piazzolla (1921-1992), trans by Claude Voirpy
+- Olive Gamble, soprano
+- Marco Culf, alto
+- Greg Bowcaster, tenor
+- Lee Zalzalah, baritone
 {% include youtubeplayer.html id="TX6r2JBW0Y4" title="Bordel 1900" %}
 
 ---
 
 Café 1930 from Histoire du Tango by Astor Piazzolla (1921-1992), trans by Claude Voirpy (first half only)
+- Olive Gamble, soprano
+- Marco Culf, alto
+- Greg Bowcaster, tenor
+- Lee Zalzalah, baritone
 {% include youtubeplayer.html id="XxEb-ClLa-4" title="Café 1930" %}
 
 ---
 
 American in Paris by George Gershwin (1898-1937), arr by Nigel Wood
+- Olive Gamble, soprano
+- Marco Culf, alto
+- Greg Bowcaster, tenor
+- Lee Zalzalah, baritone
 {% include youtubeplayer.html id="aT5WCp9JIiM" title="American in Paris" %}

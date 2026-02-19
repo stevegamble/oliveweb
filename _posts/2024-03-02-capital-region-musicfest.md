@@ -10,12 +10,13 @@ image:
   path: /assets/img/posts/capital-region-2024-group.jpg
 ---
 
-todo
-{% include youtubeplayer.html id="dG_1MgQS8-U" title="todo" %}
+Bodysnatchers by Radiohead arr by Fred Sturm (1951-2014)
+{% include youtubeplayer.html id="dG_1MgQS8-U" title="Bodysnatchers" %}
 
 ---
 
-todo
+Curveball by Paul Baker
+- featuring Marco Culf
 {% include youtubeplayer.html id="Z-p0YgkJw6E" title="todo" %}
 
 ---

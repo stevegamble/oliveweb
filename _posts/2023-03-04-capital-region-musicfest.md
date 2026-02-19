@@ -15,10 +15,10 @@ Night in Tunisia by Dizzy Gillespie (1917-1993)
 
 ---
 
-todo
+Danny Boy arr by Paul Clark
 {% include youtubeplayer.html id="PW00LGp__44" title="todo" %}
 
 ---
 
-todo
+Prime Time by Howard Rowe (1942-2023)
 {% include youtubeplayer.html id="Si0kMeCotGo" title="todo" %}

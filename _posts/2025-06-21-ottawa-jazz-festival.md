@@ -20,7 +20,7 @@ La Malanga by Eddie Palmieri (1936-2025), adapted by Preservation Hall Jazz Band
 
 ---
 
-Night in Tunisia by Dizzy Gillespie (1917-1993)
+Night in Tunisia by Dizzy Gillespie (1917-1993) arr by Jesús Molina
 {% include youtubeplayer.html id="8nVGemh9aR4" title="Night in Tunisia" %}
 
 ---
@@ -30,12 +30,12 @@ Malecon by Ben Jaffe (1971-), Preservation Hall Jazz Band
 
 ---
 
-Catch Me If You Can by John Williams (1932-)
+Catch Me If You Can by Rick Hirsch (1970-)
 {% include youtubeplayer.html id="gFqJj5tXOrU" title="todo" %}
 
 ---
 
-Mirage
+Mirage by Rick Hirsch (1970-)
 {% include youtubeplayer.html id="sAOQCtfAW1Q" title="Mirage" %}
 
 ---
@@ -45,6 +45,6 @@ Baby Carrots by Jacob Mann (1992-), arr. by O Gamble
 
 ---
 
-todo
-{% include youtubeplayer.html id="lBYoWwmfEJw" title="todo" %}
+Smash by Avishai Cohen (1970-)
+{% include youtubeplayer.html id="lBYoWwmfEJw" title="Smash" %}
 

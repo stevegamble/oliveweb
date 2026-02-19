@@ -38,7 +38,7 @@ Santiago by Ben Jaffe (1971-) and Charlie Gabriel (1932-), Preservation Hall Jaz
 
 ### Winds Chamber
 
-Midnight Rumba by Johannes Linstead (1969-)
+Midnight Rumba by Ed Calle (1959-)
 {% include youtubeplayer.html id="QYivRCEY6bg" title="Midnight Rumba" %}
 
 ### Senior Concert Band
@@ -68,5 +68,5 @@ Malecon by Ben Jaffe (1971-), Preservation Hall Jazz Band
 
 ---
 
-Catch Me If You Can by John Williams (1932-)
+Catch Me If You Can by Rick Hirsch (1970-)
 {% include youtubeplayer.html id="tR8e3p83dSQ" title="Catch Me If You Can" %}

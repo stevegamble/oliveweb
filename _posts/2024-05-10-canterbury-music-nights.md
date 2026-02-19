@@ -19,7 +19,8 @@ Goddess of Fire by Steve Reineke (1970-)
 
 ---
 
-Carmen Fantasie 
+Carmen Fantasie by Georges Bizet (1838-1875) arr by François Borne
+- featuring Felix Xu, Flute
 {% include youtubeplayer.html id="xlWA-PUM3rs" title="Carmen Fantasie" %}
 
 ### Senior Jazz Band

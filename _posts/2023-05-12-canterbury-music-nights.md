@@ -25,7 +25,7 @@ You've Got a Friend in Me by Randy Newman (1943-)
 
 ### Intermediate Concert Band
 
-Merry-Go-Round of Life by Joe Joe Hisaishi (1950-)
+Merry-Go-Round of Life by Joe Hisaishi (1950-)
 {% include youtubeplayer.html id="dzPAfQJXyHo" title="Merry-Go-Round of Life" %}
 
 ---
@@ -53,7 +53,7 @@ You've Got a Friend in Me by Randy Newman (1943-)
 
 ### Intermediate Concert Band
 
-Merry-Go-Round of Life by Joe Joe Hisaishi (1950-)
+Merry-Go-Round of Life by Joe Hisaishi (1950-)
 {% include youtubeplayer.html id="7abCLsO9haQ" title="Merry-Go-Round of Life" %}
 
 ---
