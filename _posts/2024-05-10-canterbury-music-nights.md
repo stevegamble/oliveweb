@@ -40,7 +40,7 @@ Masquerade Suite: 1. Waltz by Aram Khachaturian (1903-1978)
 
 ---
 
-Summertime by George Gershwin George Gershwin (1898-1937)
+Summertime by George Gershwin (1898-1937)
 {% include youtubeplayer.html id="RD8CsMe8jO8" title="Summertime" %}
 
 ---

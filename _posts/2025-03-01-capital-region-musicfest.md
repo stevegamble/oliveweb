@@ -10,12 +10,12 @@ image:
   path: /assets/img/posts/capital-region-2025-group.jpg
 ---
 
-So It Is by Preservation Hall Jazz Band
-{% include youtubeplayer.html id="jTTCBnIMRtg" title="todo" %}
+So It Is by Ben Jaffe (1971-) and Charlie Gabriel (1932-), Preservation Hall Jazz Band
+{% include youtubeplayer.html id="jTTCBnIMRtg" title="So It Is" %}
 
 ---
 
-Night in Tunisia by Dizzy Gillespie (1917-1993)
+Night in Tunisia by Dizzy Gillespie (1917-1993), arr by Jesús Molina
 {% include youtubeplayer.html id="FrmRPW4Logg" title="Night in Tunisia" %}
 
 ---
