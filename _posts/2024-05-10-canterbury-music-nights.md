@@ -2,10 +2,8 @@
 title: Canterbury Music Nights, May 9-10 2024
 description: >-
   Performances from Canterbury Music Nights Spring 2024
-author: olive
 categories: [Performance]
 tags: [Canterbury, Oboe, Trombone, Keyboards, Jazz, Orchestra, Concert Band, Grade 11]
-pin: false
 image:
   path: /assets/img/posts/music-night-2-jazz-2024.png
 ---

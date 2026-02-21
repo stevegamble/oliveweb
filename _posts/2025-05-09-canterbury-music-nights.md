@@ -2,10 +2,8 @@
 title: Canterbury Music Nights, May 8-9 2025
 description: >-
   Performances from Canterbury Music Nights Spring 2025
-author: olive
 categories: [Performance]
 tags: [Canterbury, Oboe, Saxophone, Jazz, Orchestra, Concert Band, Grade 12]
-pin: false
 image:
   path: /assets/img/posts/music-night-2-orchestra-2025.png
 ---

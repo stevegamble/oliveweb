@@ -2,10 +2,8 @@
 title: Capital Region MusicFest, March 4 2023
 description: >-
   Canterbury Intermediate Jazz Band at the 2023 Capital Region MusicFest
-author: olive
 categories: [Performance]
 tags: [Canterbury, Keyboards, Jazz, Grade 10]
-pin: false
 image:
   path: /assets/img/posts/capital-region-2023-group.jpg
 ---

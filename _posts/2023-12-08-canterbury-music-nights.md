@@ -2,11 +2,8 @@
 title: Canterbury Music Nights, Dec 7-8 2023
 description: >-
   Performances from Canterbury Music Nights Winter 2023
-author: olive
 categories: [Performance]
 tags: [Canterbury, Oboe, Keyboards, Concert Band, Jazz, Orchestra, Grade 11]
-
-pin: false
 image:
   path: /assets/img/posts/music-night-2-concert-winter-2023.png
 ---

@@ -2,11 +2,8 @@
 title: Canterbury Music Nights, Dec 12-13 2024
 description: >-
   Performances from canterbury Music Nights Winter 2024
-author: olive
 categories: [Performance]
 tags: [Canterbury, Oboe, Saxophone, Jazz, Orchestra, Concert Band, Grade 12]
-
-pin: false
 image:
   path: /assets/img/posts/music-night-2-chamber-winter-2024.png
 ---

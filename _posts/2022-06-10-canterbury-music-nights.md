@@ -2,11 +2,8 @@
 title: Canterbury Music Nights, June 9-10 2022
 description: >-
   Performances from Canterbury Music Nights Spring 2022
-author: olive
 categories: [Performance]
 tags: [Canterbury, Oboe, Concert Band, Grade 9]
-
-pin: false
 image:
   path: /assets/img/posts/music-night-2-concert-spring-2022.png
 ---

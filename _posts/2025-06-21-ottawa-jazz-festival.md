@@ -2,10 +2,8 @@
 title: Ottawa Jazz Festival, June 21 2025
 description: >-
   Senior Jazz Combo on the Marion Dewar Stage at the 2025 Ottawa Jazz Festival
-author: olive
 categories: [Performance]
 tags: [Canterbury, Saxophone, Jazz, Grade 12]
-pin: false
 image:
   path: /assets/img/posts/ottawa-jazz-festival-2025.png
 ---
