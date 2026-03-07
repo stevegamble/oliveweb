@@ -3,7 +3,7 @@ title: Canterbury Music Nights, Dec 8-9 2022
 description: >-
   Performances from Canterbury Music Nights Winter 2022
 categories: [Performance]
-tags: [Canterbury, Oboe, Keyboards, Concert Band, Jazz, Grade 10]
+tags: [Canterbury, Oboe, Keyboards, Concert Band, Jazz, Bossa Nova, Grade 10]
 image:
   path: /assets/img/posts/music-night-2-jazz-winter-2022.png
 ---
