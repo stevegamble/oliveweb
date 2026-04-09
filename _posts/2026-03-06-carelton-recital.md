@@ -1,5 +1,5 @@
 ---
-title: Carleton Recital, March 6 2026
+title: Carleton First-Year Recital, March 6 2026
 description: >-
   First year student recital
 categories: [Performance]

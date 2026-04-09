@@ -1,7 +1,7 @@
 ---
 title: Carleton Jazz Ensemble, March 27 2026
 description: >-
-  Performances from the Spring 2026 Chamber JAzz Ensemble recital
+  Performances from the Spring 2026 Chamber Jazz Ensemble recital
 categories: [Performance]
 tags: [Carleton, Saxophone, 1st Year]
 image:
